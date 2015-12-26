@@ -2,12 +2,13 @@ name: E-Mortalized
 favicon: null
 layout_spectrum: 0.26239094557240605
 typography_spectrum: 0.7339041416998953
+title: E-Mortalized
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-5100962-5
   facebook: null
   twitter: null
 opengraph:
