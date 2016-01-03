@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[E-Mortalized]]></title>
         <description><![CDATA[E-Mortalized]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.e-mortalized.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 05:16:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Jan 2016 05:46:26 GMT</lastBuildDate>
+        <atom:link href="http://www.e-mortalized.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Project code name: REALSUZY</p>]]></description>
+            <link>http://www.e-mortalized.com/b4aa6d35-fd0c-4c99-9042-ccc0dfed43e9/index.html</link>
+            <guid isPermaLink="false">b4aa6d35-fd0c-4c99-9042-ccc0dfed43e9</guid>
+            <pubDate>Sun, 03 Jan 2016 05:46:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d187175e-5d66-4e5b-9d37-f8e55103554e.gif">]]></description>
-            <link>undefined2f16ad83-e790-49cf-a236-625440a386c0/index.html</link>
+            <link>http://www.e-mortalized.com/2f16ad83-e790-49cf-a236-625440a386c0/index.html</link>
             <guid isPermaLink="false">2f16ad83-e790-49cf-a236-625440a386c0</guid>
             <pubDate>Sat, 26 Dec 2015 05:15:55 GMT</pubDate>
         </item>
